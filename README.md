@@ -9,9 +9,6 @@
   <a href="https://instagram.com/onlysparked" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/britannique" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="telegram logo"  />
-  </a>
   <a href="https://twitter.com/OnlySparked" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
