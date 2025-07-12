@@ -13,16 +13,6 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/564x/a9/51/9b/a9519bf8025a327e3a62ded4b2bf99dd.jpg"  />
-</div>
-
-###
-
-<h1 align="center">✦ --- ACTIVISTE / SPARKED  --- ✦</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
